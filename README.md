@@ -6,8 +6,6 @@ A website that shows current status for GitHub. User can refresh it. If somethin
 
 Link to site: https://visevan.github.io/github-status/
 
-Idea from here: https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/GitHub-Status-App.md
-
 **Technologies used**
 
 - HTML/CSS
@@ -19,3 +17,6 @@ Idea from here: https://github.com/florinpop17/app-ideas/blob/master/Projects/1-
 - Node.js and Node-fetch module
 
 
+---
+
+Idea from here: https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/GitHub-Status-App.md
